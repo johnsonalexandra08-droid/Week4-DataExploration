@@ -1,8 +1,8 @@
 # Week 4 Hands-On Assignment: Data Exploration, Feature Engineering, and GitHub Workflow
 
 **Course:** Introduction to Machine Learning
-**Instructor:** [Your Instructor's Name]
-**Student:** Alexandra
+**Instructor:** Becky Deitenbeck
+**Student:** Hannah Johnson
 **Date:** February 10, 2026
 
 ---
